@@ -9,6 +9,6 @@ layout: home
 
 {% if site.bluesky_username %}
 <a href="https://bsky.app/profile/{{ site.bluesky_username }}" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky" width="18" height="18">
+  <img alt="Updated Bluesky logo, published February 2024." src="./_assets/Bluesky_Logo.svg.png"> width="18" height="18">
 </a>
 {% endif %}
