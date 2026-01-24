@@ -30,10 +30,9 @@ bluesky_username: onegovee.com
 github_username:  onegovee
 
 # Build settings
-# theme: minima
-remote_theme: pages-themes/primer@v0.6.0
+theme: jekyll-theme-primer
 plugins:
-- jekyll-remote-theme
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
